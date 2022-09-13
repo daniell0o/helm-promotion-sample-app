@@ -20,11 +20,11 @@ service:
 
 
 ## Application level settings  
-appMode: qa
-certificatePath: /etc/ssl/qa
-paypalURLLocation: https://qa.paypal.example.com
-databaseUser: qa-user
-databasePassword: qa-password
+appMode: dev
+certificatePath: /etc/ssl/dev
+paypalURLLocation: https://dev.paypal.example.com
+databaseUser: dev-user
+databasePassword: dev-password
 
 
 
